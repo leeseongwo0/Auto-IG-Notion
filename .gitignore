@@ -1,0 +1,23 @@
+# Local settings and credentials. Commit only examples with no real values.
+.env
+.env.*
+!.env.example
+/config/local.json
+/config/*.local.json
+
+# Private runtime data: sessions, metrics, logs, exports and screenshots.
+/local/
+/runtime/
+/data/
+/logs/
+/artifacts/
+/screenshots/
+/playwright/.auth/
+/storageState.json
+
+# Generated development files.
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.DS_Store

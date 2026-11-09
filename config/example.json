@@ -1,0 +1,14 @@
+{
+  "instagram": {
+    "username": "YOUR_ACCOUNT",
+    "profile_url": "https://www.instagram.com/YOUR_ACCOUNT/"
+  },
+  "notion": {
+    "parent_page_url": null,
+    "dashboard_page_url": null,
+    "content_database_url": null,
+    "content_metrics_database_url": null,
+    "account_metrics_database_url": null
+  },
+  "observation_timezone": "Asia/Seoul"
+}
